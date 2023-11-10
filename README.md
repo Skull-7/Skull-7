@@ -1,3 +1,4 @@
+![logo](https://github.com/Skull-7/Skull-7/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Abir Banerjee</h1>
 <h3 align="center">A passionate Flutter Developer and Data Science student from India</h3>
 
